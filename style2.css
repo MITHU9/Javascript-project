@@ -1,0 +1,11 @@
+button{
+    background-color: yellow;
+    height: 50px;
+    width: 100px;
+    margin: 20px;
+}
+
+.anim{
+    box-shadow: 0px 15px 20px tomato;
+    opacity: 0.5;
+}
